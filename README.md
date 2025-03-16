@@ -29,3 +29,5 @@ Here are some ideas to get you started:
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
   </p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudcks8084)](https://solved.ac/qudcks8084/)
